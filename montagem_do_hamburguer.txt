@@ -1,12 +1,10 @@
 Colocar os ingredientes na seguinte ordem:
 
-Colocar os ingredientes na seguinte ordem:
+1. Pão (parte de baixo)
 1. Dois Hambúrguer
 2. Alface
 3. Queijo
 4. Molho Especial 
 5. Cebola
 6. Picles
-7. Picles
-8. Pão (parte de cima)
-9. Pão (parte de baixo)
+7. Pão (parte de cima)
